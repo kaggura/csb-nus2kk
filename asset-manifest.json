@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://kaggura.github.io/csb-nus2kk/static/js/main.97362a02.chunk.js",
+    "main.js.map": "https://kaggura.github.io/csb-nus2kk/static/js/main.97362a02.chunk.js.map",
+    "runtime-main.js": "https://kaggura.github.io/csb-nus2kk/static/js/runtime-main.ecb753c3.js",
+    "runtime-main.js.map": "https://kaggura.github.io/csb-nus2kk/static/js/runtime-main.ecb753c3.js.map",
+    "static/js/2.f9ecda56.chunk.js": "https://kaggura.github.io/csb-nus2kk/static/js/2.f9ecda56.chunk.js",
+    "static/js/2.f9ecda56.chunk.js.map": "https://kaggura.github.io/csb-nus2kk/static/js/2.f9ecda56.chunk.js.map",
+    "index.html": "https://kaggura.github.io/csb-nus2kk/index.html",
+    "static/js/2.f9ecda56.chunk.js.LICENSE.txt": "https://kaggura.github.io/csb-nus2kk/static/js/2.f9ecda56.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecb753c3.js",
+    "static/js/2.f9ecda56.chunk.js",
+    "static/js/main.97362a02.chunk.js"
+  ]
+}
